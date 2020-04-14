@@ -1,0 +1,7 @@
+
+
+1 git init
+2 git status
+3 git add -A
+4 git commit -m "msg example helloworld"
+
